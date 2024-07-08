@@ -3,9 +3,7 @@
 
 <!-- introduction -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Junaid !;&center=true&size=30">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=40&duration=1000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I+am++Junaid+;Full+Stack+Developer;Programmer;Problem+solver" alt="Typing SVG" /></a>
 </h1>
 
 <br />
